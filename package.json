@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nonoka77/typescript-for-javascript-developersp/issues"
   },
-  "homepage": "https://github.com/Nonoka77/typescript-for-javascript-developersp#readme"
+  "homepage": "https://github.com/Nonoka77/typescript-for-javascript-developersp#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
